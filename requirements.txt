@@ -1,0 +1,7 @@
+ctransformers==0.2.5
+#model is quantised model so to load the model we need ctransformer because you are using langchain
+sentence-transformers==2.2.2
+#this is an embedding model from hugging face
+pinecone-client
+langchain==0.0.225
+flask
